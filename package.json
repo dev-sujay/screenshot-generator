@@ -1,0 +1,21 @@
+{
+  "name": "screenshot-generator",
+  "version": "1.0.0",
+  "description": "A simple utility to capture website screenshots using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "screenshot",
+    "puppeteer",
+    "website",
+    "screenshot capture"
+  ],
+  "author": "Sujay Paul",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.11.1",
+    "uuid": "^9.0.1"
+  }
+}
